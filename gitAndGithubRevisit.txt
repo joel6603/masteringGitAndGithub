@@ -1,0 +1,13 @@
+This text document was made with the purpose of familiarizing git bash and various properties of git remote. As a first step first create a repo in GitHub and create local repo to connect with it.Use git remote add command with remote name and url to link them.
+
+$ git branch -m master main  this command can be used to rename master to main in local repo.For remote repo there is some other way which is also must be done
+
+Git push remote branch will help you to simply update remote repository. 
+Remember commands like
+	git log
+	git status
+	git add .
+	git commit -m ''
+	git remote add remote url
+	git push remote branch
+	git push remote --force
